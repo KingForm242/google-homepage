@@ -1,0 +1,58 @@
+
+body {
+  color:#222;
+  padding-bottom: 70px;
+}
+
+img {
+   -webkit-appearance: none;
+   position:relative;
+   top:200px;
+   left:100px;
+
+}
+
+
+
+.nav li  {
+   -webkit-appearance: none;
+    display: inline;
+    font-size:13px;
+    padding:2px;
+    top:20px;
+    position:relative;
+    right:70px;
+
+}
+
+.nav a{
+  color:black;
+}
+
+input {
+  position:relative;
+  top: 230px;
+  width:600px;
+  height:38px;
+  left:10px;
+}
+
+.btn{
+  position:relative;
+  top:260px;
+  left:860px;
+}
+
+#btn {
+  background-color: blue;
+}
+
+#footer li {
+  display:inline;
+  padding:10px;
+  position:relative;
+  top:15px;
+}
+#footer a{
+  color:black;
+}
